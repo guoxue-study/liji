@@ -1,0 +1,28 @@
+{
+	"name": "liji",
+	"version": "0.2.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@marp-team/marp-cli": "^0.13.0",
+		"@marp-team/marp-core": "^0.12.1",
+		"markdown-it-abbr": "^1.0.4",
+		"markdown-it-container": "^2.0.0",
+		"markdown-it-emoji": "^1.4.0",
+		"markdown-it-footnote": "^3.0.2",
+		"markdown-it-html5-media": "^0.6.0",
+		"markdown-it-mark": "^2.0.0",
+		"markdown-it-sub": "^1.0.0",
+		"markdown-it-sup": "^1.0.0",
+		"ramda": "^0.26.1"
+	},
+	"dependencies": {
+		"xf-tts": "^1.0.0",
+		"yargs": "^14.0.0"
+	}
+}
